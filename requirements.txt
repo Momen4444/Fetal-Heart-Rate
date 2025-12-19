@@ -1,0 +1,17 @@
+PyQt6
+PyQt6-WebEngine
+plotly
+pandas
+scipy
+numpy
+wfdb
+scikit-learn
+xgboost
+seaborn
+matplotlib
+joblib
+fastapi
+uvicorn
+pydantic
+httpx
+wfdb
